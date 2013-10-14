@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 <font face="georgia, serif">
-  <span style="font-size: 62px; line-height: 70px;">
+  <span style="font-size: 62px; line-height: 70px; color: black;">
     $0
   </span>
 </font>

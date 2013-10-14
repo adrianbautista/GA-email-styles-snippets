@@ -4,7 +4,10 @@
   <tbody>
     <tr>
       <td style="background: white; margin-top: 30px; padding-top: 6px; padding-bottom: 6px; border-top: 1px solid black; border-bottom: 1px solid black; font-family: arial, sans-serif; font-size: 13px;" pardot-region="header">
-        <strong>$0<br /></strong>
+        <strong>
+          $0
+          <br />
+        </strong>
       </td>
     </tr>
   </tbody>

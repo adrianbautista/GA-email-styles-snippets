@@ -10,7 +10,7 @@
   </tbody>
 </table>
 ]]></content>
-  <tabTrigger>section-heading</tabTrigger>
+  <tabTrigger>secheading</tabTrigger>
   <description>GA Email Section Heading Style,</description>
   <scope>text.html</scope>
 </snippet>

@@ -17,12 +17,12 @@ Included snippets:
 
 1. Download a .zip folder of this Github repo and unzip it
 2. Open Sublime Text 2's Packages folder using `Sublime Text 2 > Preferences > Browse Packages..`
-2. Copy the unzipped directory into the Sublime's Packages folder
+2. Copy the unzipped directory into Sublime's Packages folder
 
 ### Using Git
 
 Open up a terminal (e.g. Terminal.app) and execute the following commands:
-  ```shell
+  ```bash
   cd ~/Library/"Application Support"/"Sublime Text 2"/Packages/
   git clone git://github.com/adrianbautista/GA-email-styles-snippets.git
   ```

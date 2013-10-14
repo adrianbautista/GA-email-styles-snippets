@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<font face="georgia, serif">
+  <span style="font-size: 62px; line-height: 70px;">
+    $0
+  </span>
+</font>
+]]></content>
+  <tabTrigger>heading</tabTrigger>
+  <description>GA Email Header Style,</description>
+  <scope>text.html</scope>
+</snippet>

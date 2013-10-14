@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<a style="color: #030303; font-family: arial, sans-serif; font-size: 15px; font-weight: bold;" href="${1:URL_ADDRESS}">
+  $0
+</a>
+]]></content>
+  <tabTrigger>hyperlink</tabTrigger>
+  <description>GA Email Hyperlink Style,</description>
+  <scope>text.html</scope>
+</snippet>

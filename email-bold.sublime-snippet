@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<span style="font-family: arial, sans-serif; font-size: 15px; font-weight: bold;">
+  $0
+</span>
+]]></content>
+  <tabTrigger>bold</tabTrigger>
+  <description>GA Email Bold Style,</description>
+  <scope>text.html</scope>
+</snippet>

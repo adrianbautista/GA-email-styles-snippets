@@ -14,6 +14,9 @@ To use the snippets, open or create a new HTML file, type a snippet keyword and 
 1. Open Sublime's Command Palette (`command + shift + p` or `Tools > Command Palette`)
 2. Type `Package Control: Add Repository`
 3. Specify https://github.com/adrianbautista/GA-email-styles-snippets as the URL
+4. Open Sublime's Command Palette again and type `Package Control:
+   Install Package`
+5. Type `GA-email-styles-snippets` and install the package
 
 ###Manual Installation
 
